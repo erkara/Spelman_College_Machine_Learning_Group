@@ -3,9 +3,9 @@ This repo contains the notebooks regarding our machine learning project with my 
 
 **Laila N.Hayes, Nadley E.Aisuan** and **Princess Sampson** are working in the scope of CODE Scholars Project funded by Accenture.
 
-**Erin N.Ojeda** is working in MathRamp Program funded my Mathematics Department. As we progress in the project, we will keep it update with new items. 
+**Erin N.Ojeda** is working in MathRamp Program funded my Mathematics Department. 
 
-Our plan is to cover all the topics outlined below and evantually present our indvidual projects in Spelman College Spring Research Day. 
+As we progress in the project, we will keep it update with new items. Our plan is to cover all the topics outlined below and evantually present our indvidual projects in Spelman College Spring Research Day. 
 
 
 
