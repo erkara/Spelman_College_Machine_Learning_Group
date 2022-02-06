@@ -5,13 +5,15 @@ Erin N. Ojeda is working in MathRamp Program funded my Mathematics Department. A
 
 Our plan is to cover all the topics outlined below and evantually present our indvidual projects in Spelman College Spring Research Day. 
 
-- 1.Introduction and General Motivation
-- 2. Gradient Descent(GD) Algorithm
-- 3. Project-1: Advertisement strategy
-- 4. Project-2: Analyzing insurance charges
-- 5. From Linear Regression to Neural Networks
-- 6. Basics of Image Processing
-- 7. Introduction to Pytorch
-- 8. Image Classification: Part1 - Feed Forward Neural Networks
-- 9. Image Classification: Part2- Convolutional Neural Networks
-- 10.Additional Topics; GPU Computation on Google Colab,Hyperparameter Optimization with Optuna
+***
+**1.Introduction and General Motivation
+2.Gradient Descent(GD) Algorithm
+3.Project-1: Advertisement strategy
+4.Project-2: Analyzing insurance charges
+5.From Linear Regression to Neural Networks
+6.Basics of Image Processing
+7.Introduction to Pytorch
+8.Image Classification: Part1 - Feed Forward Neural Networks
+9.Image Classification: Part2- Convolutional Neural Networks
+10.Additional Topics; GPU Computation on Google Colab,Hyperparameter Optimization with Optuna**
+***
