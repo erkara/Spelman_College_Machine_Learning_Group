@@ -16,7 +16,8 @@ As we progress in the project, we will keep it update with new items. Our plan i
 5. From Linear Regression to Neural Networks
 6. Basics of Image Processing
 7. Introduction to Pytorch
-8. Image Classification: Part1 - Feed Forward Neural Networks
-9. Image Classification: Part2- Convolutional Neural Networks
-10. Additional Topics; GPU Computation on Google Colab,Hyperparameter Optimization with Optuna**
+8. Image Recognition Part1: Feed Forward Neural Networks
+9. Image Recognition Part2: Convolutional Neural Networks
+10. Image_Recognition Part3: Transfer_Learning with EfficientNet
+10. Image_Recognition Part4: Hyperparameter Optimization with Optuna
 
