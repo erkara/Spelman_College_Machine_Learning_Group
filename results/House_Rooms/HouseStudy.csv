@@ -1,0 +1,5 @@
+number,value,duration,params_freeze,params_lr,params_optimizer,params_train_batch_size,params_weight_decay,state
+2,0.8992395437262357,7.42,False,0.00018121990754153431,<class 'torch.optim.adam.Adam'>,22,0.0006320138926255508,COMPLETE
+3,0.8697718631178707,7.35,False,0.000635722627240616,<class 'torch.optim.adam.Adam'>,23,0.0005569568654415842,COMPLETE
+0,0.8536121673003803,7.27,False,0.0008058216930480776,<class 'torch.optim.adam.Adam'>,18,0.0001605435535869845,COMPLETE
+1,0.7366920152091255,2.82,True,5.413823561076534e-05,<class 'torch.optim.adam.Adam'>,26,0.00017812908572499396,COMPLETE
