@@ -1,11 +1,11 @@
 # Spelman_College_Machine_Learning_Group
-This repo contains the notebooks regarding our machine learning project with my students at Spelman College. 
+This repo contains the notebooks regarding the deep learning project with my students at Spelman College. 
 
-**Laila N.Hayes** and **Princess Sampson** are working in the scope of CODE Scholars Project funded by Accenture.
+**Laila N.Hayes** and **Princess Sampson** were supported by CODE Scholars Project funded by Accenture.
 
-**Erin N.Ojeda** is working in MathRamp Program funded my Mathematics Department. 
+**Erin N.Ojeda** worked as a MathRamp Scholar funded my Mathematics Department. 
 
-As we progress in the project, we will keep it update with new items. Our plan is to cover all the topics outlined below and evantually present our indvidual projects in Spelman College Spring Research Day. 
+We covered the following topics throughout our research.
 
 
 
@@ -16,8 +16,8 @@ As we progress in the project, we will keep it update with new items. Our plan i
 5. From Linear Regression to Neural Networks
 6. Basics of Image Processing
 7. Introduction to Pytorch
-8. Image Recognition Part1: Feed Forward Neural Networks
-9. Image Recognition Part2: Convolutional Neural Networks
-10. Image_Recognition Part3: Transfer_Learning with EfficientNet and Data Augmentation
-10. Image_Recognition Part4: Hyperparameter Optimization with Optuna
+8. Image Recognition Part1:Feed Forward Neural Networks
+9. Image Recognition Part2:Convolutional Neural Networks
+10. Image_Recognition Part3:Data Augmentation Transfer Learning 
+10. Image_Recognition Part4:Hyperparameter Optimization with Optuna
 
